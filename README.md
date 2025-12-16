@@ -22,11 +22,11 @@ Report
 Presentation video 
 
 ## Links:
-1.YouTube Presentation Video: https://youtu.be/Kd-mNzBtirA
-2. Slides (Google Drive): https://docs.google.com/presentation/d/1SK_hj1sRqKiampcqTxsHaIeCfozC0jV9/edit?slide=id.p1#slide=id.p1
-3. Final Report (PDF): https://drive.google.com/file/d/1wiSNd2djxwD4RmcV7dp-gnR2Unv1jXQi/view
-4. Dataset Folder: https://drive.google.com/drive/folders/13wcCdnD9NGdefKIAz7gXFBHJmXU8iMUJ
-5. Google drive: google drive: https://drive.google.com/drive/folders/1VZpehDG5WkFIrAhF1cYkNyrzD0_-SDZN?usp=sharing
+1. [YouTube Presentation Video:]([URL](https://youtu.be/Kd-mNzBtirA)) 
+2. [Anchor Text](URL)Slides (Google Drive): https://docs.google.com/presentation/d/1SK_hj1sRqKiampcqTxsHaIeCfozC0jV9/edit?slide=id.p1#slide=id.p1
+3. [Anchor Text](URL)Final Report (PDF): https://drive.google.com/file/d/1wiSNd2djxwD4RmcV7dp-gnR2Unv1jXQi/view
+4. [Anchor Text](URL)Dataset Folder: https://drive.google.com/drive/folders/13wcCdnD9NGdefKIAz7gXFBHJmXU8iMUJ
+5. [Anchor Text](URL)Google drive: google drive: https://drive.google.com/drive/folders/1VZpehDG5WkFIrAhF1cYkNyrzD0_-SDZN?usp=sharing
 
 
 
