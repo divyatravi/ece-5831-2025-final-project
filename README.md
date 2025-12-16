@@ -23,9 +23,9 @@ Presentation video
 
 ## Links:
 YouTube Presentation Video: 
-Slides (Google Drive):
-Final Report (PDF):
-Dataset Folder:
+Slides (Google Drive): https://docs.google.com/presentation/d/1SK_hj1sRqKiampcqTxsHaIeCfozC0jV9/edit?slide=id.p1#slide=id.p1
+Final Report (PDF): https://drive.google.com/file/d/1wiSNd2djxwD4RmcV7dp-gnR2Unv1jXQi/view
+Dataset Folder: https://drive.google.com/drive/folders/13wcCdnD9NGdefKIAz7gXFBHJmXU8iMUJ
 
 google drive: https://drive.google.com/drive/folders/1VZpehDG5WkFIrAhF1cYkNyrzD0_-SDZN?usp=sharing
 
